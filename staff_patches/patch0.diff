@@ -1,0 +1,13 @@
+diff --git a/staff.c b/staff.c
+index 33354e6..63e5c3f 100644
+--- a/staff.c
++++ b/staff.c
+@@ -3,7 +3,7 @@
+ #include "student.h"
+ 
+ int main() {
+-  printf("Aloe world!\n");
++  printf("Hello world!\n");
+ 
+   printf("28 squared is: %d\n", square(28));
+ 
