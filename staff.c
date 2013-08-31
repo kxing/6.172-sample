@@ -3,7 +3,7 @@
 #include "student.h"
 
 int main() {
-  printf("Aloe world!\n");
+  printf("Hello world!\n");
 
   printf("28 squared is: %d\n", square(28));
 
